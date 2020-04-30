@@ -1,6 +1,6 @@
 # Today I learned
 
-📖 This is my personal reference for things I learn every day. ** 
+📖 This is my personal reference for things I learn every day.
 
 ## 2020 
 
